@@ -1,0 +1,21 @@
+<svg width="40.000000" height="40.000000" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip164_2240">
+			<rect id="akar-icons:crown" width="24.000000" height="24.000000" transform="translate(8.000000 8.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip164_2239">
+			<rect id="Icon" rx="20.000000" width="40.000000" height="40.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Icon" rx="20.000000" width="40.000000" height="40.000000" fill="#F5F5F5" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip164_2239)">
+		<rect id="akar-icons:crown" width="24.000000" height="24.000000" transform="translate(8.000000 8.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip164_2240)">
+			<path id="Vector" d="M11.3 17.04C11.75 17.4 12.28 17.66 12.85 17.8C13.41 17.94 14 17.95 14.57 17.84C15.14 17.73 15.68 17.49 16.15 17.15C16.62 16.81 17.01 16.37 17.29 15.86L20 11L22.7 15.86C22.98 16.37 23.37 16.81 23.84 17.15C24.31 17.49 24.85 17.73 25.42 17.84C25.99 17.95 26.58 17.94 27.14 17.8C27.71 17.66 28.24 17.4 28.69 17.04L30 16L28.24 24.77C28.16 25.15 28 25.51 27.76 25.82C27.53 26.13 27.22 26.38 26.87 26.56C24.74 27.62 22.38 28.18 20 28.18C17.61 28.18 15.25 27.62 13.12 26.56C12.77 26.38 12.46 26.13 12.23 25.82C11.99 25.51 11.83 25.15 11.75 24.77L10 16L11.3 17.04Z" stroke="#1D1E25" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+			<path id="Vector" d="M16 23C18.59 24.33 21.4 24.33 24 23" stroke="#1D1E25" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+	</g>
+</svg>

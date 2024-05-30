@@ -1,0 +1,20 @@
+<svg width="160.000000" height="90.000000" viewBox="0 0 160 90" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip134_700">
+			<rect id="OYO Logo" width="79.058823" height="30.000000" transform="translate(39.970703 30.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip134_698">
+			<rect id="OYO Logo" width="160.000000" height="90.000000" transform="translate(-0.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip134_698)">
+		<rect id="BG" x="-0.500000" rx="16.000000" width="160.000000" height="90.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<rect id="OYO Logo" width="79.058823" height="30.000000" transform="translate(39.970703 30.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip134_700)">
+			<path id="Vector" d="M104.97 58.72C112.48 58.72 118.59 52.54 118.59 44.93C118.59 37.33 112.48 31.15 104.97 31.15C97.46 31.15 91.35 37.33 91.35 44.93C91.35 52.54 97.46 58.72 104.97 58.72ZM104.97 40.02C107.64 40.02 109.82 42.22 109.82 44.93C109.82 47.64 107.64 49.84 104.97 49.84C102.29 49.84 100.11 47.64 100.11 44.93C100.11 42.22 102.29 40.02 104.97 40.02L104.97 40.02ZM53.58 58.72C61.09 58.72 67.2 52.54 67.2 44.93C67.2 37.33 61.09 31.15 53.58 31.15C46.08 31.15 39.97 37.33 39.97 44.93C39.97 52.54 46.08 58.72 53.58 58.72ZM53.58 40.02C56.26 40.02 58.44 42.22 58.44 44.93C58.44 47.64 56.26 49.84 53.58 49.84C50.91 49.84 48.73 47.64 48.73 44.93C48.73 42.22 50.91 40.02 53.58 40.02L53.58 40.02ZM79.27 39.71L75.09 31.33L65.3 31.33L74.44 49.66L74.44 58.29L84.1 58.29L84.1 49.66L93.24 31.33L83.45 31.33L79.27 39.71L79.27 39.71Z" fill="#EE2E24" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>

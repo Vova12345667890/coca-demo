@@ -1,0 +1,19 @@
+<svg width="40.000000" height="40.000000" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip164_2198">
+			<rect id="Icon" width="24.000000" height="24.000000" transform="translate(8.000000 8.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip164_2197">
+			<rect id="Icon" rx="20.000000" width="40.000000" height="40.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Icon" rx="20.000000" width="40.000000" height="40.000000" fill="#1463FF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip164_2197)">
+		<g clip-path="url(#clip164_2198)">
+			<path id="Icon" d="M21 11L12 22L19 22L19 29L28 18L21 18L21 11Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		</g>
+	</g>
+</svg>
